@@ -1,6 +1,6 @@
 <?php class Api
 {
-    public $api_url = 'https://panel.jetsosyal.com/api/v2'; // API URL
+    public $api_url = 'https://diginz.com/api/v2'; // API URL
 
     public $api_key = ''; // API Key
 
